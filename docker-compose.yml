@@ -1,0 +1,6 @@
+services:
+  webserver:
+    image: ghcr.io/username_github/nginx-afriansyah
+    ports:
+      - "8080:80"
+
